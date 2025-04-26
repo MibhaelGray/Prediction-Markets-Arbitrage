@@ -1,0 +1,584 @@
+platform,title,description,endDate,yesPrice,noPrice
+Polymarket,Arsenal wins the Premier League?,"This market will resolve to “Yes” if Arsenal is the 2024-25 Premier League Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty Arsenal will win, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Arsenal to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Liverpool wins the Premier League?,"This market will resolve to “Yes” if Liverpool is the 2024-25 Premier League Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty Liverpool will win, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Liverpool to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.",2025-05-25T12:00:00Z,0.9985,0.0015
+Polymarket,Will Arsenal win the UEFA Champions League?,"This market will resolve to “Yes” if Arsenal wins the 2024-25 UEFA Champions League. Otherwise, this market will resolve to “No”.
+
+If at any point it becomes impossible for this team to win the 2024-2025 UEFA Champions League based on the rules of the tournament (e.g. they are eliminated), this market will resolve immediately to “No”.",2025-05-31T12:00:00Z,0.255,0.745
+Polymarket,Will Inter Milan win the UEFA Champions League?,"This market will resolve to “Yes” if Inter Milan wins the 2024-25 UEFA Champions League. Otherwise, this market will resolve to “No”.
+
+If at any point it becomes impossible for this team to win the 2024-2025 UEFA Champions League based on the rules of the tournament (e.g. they are eliminated), this market will resolve immediately to “No”.",2025-05-31T12:00:00Z,0.154,0.846
+Polymarket,Will Paris Saint-Germain win the UEFA Champions League?,"This market will resolve to “Yes” if Paris Saint-Germain wins the 2024-25 UEFA Champions League. Otherwise, this market will resolve to “No”.
+
+If at any point it becomes impossible for this team to win the 2024-2025 UEFA Champions League based on the rules of the tournament (e.g. they are eliminated), this market will resolve immediately to “No”.",2025-05-31T12:00:00Z,0.2665,0.7335
+Polymarket,Will Real Madrid win La Liga?,"This market will resolve to “Yes” if Real Madrid is the 2024-25 La Liga Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty Real Madrid will win, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Real Madrid to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.",2025-05-25T12:00:00Z,0.15,0.85
+Polymarket,Will Barcelona win La Liga?,"This market will resolve to “Yes” if Barcelona is the 2024-25 La Liga Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty Barcelona will win, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Barcelona to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.",2025-05-25T12:00:00Z,0.835,0.165
+Polymarket,Will another team win La Liga?,"This market will resolve to “Yes” if any team other than Real Madrid, Barcelona, Atletico Madrid, Girona FC, Athletic Bilbao, Real Sociedad, Real Betis, Villarreal CF, RC Celta de Vigo, Valencia CF, or Sevilla FC is the 2024-25 La Liga Champion. Otherwise, this market will resolve to “No.”
+
+",2025-05-25T12:00:00Z,0.0015,0.9985
+Polymarket,Will Erling Haaland be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Erling Haaland is the top goalscorer for the 2024/2025 English Premier League season. Otherwise this market will resolve to “No”.
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player's last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0015,0.9985
+Polymarket,Will Mohamed Salah be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Mohamed Salah is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.986,0.014
+Polymarket,Will Alexander Isak be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Alexander Isak is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0125,0.9875
+Polymarket,Will Ollie Watkins be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Ollie Watkins is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Julian Alvarez be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Julian Alvarez is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Heung-Min Son be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Heung-Min Son is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Kai Havertz be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Kai Havertz is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Cole Palmer be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Cole Palmer is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Dominic Solanke be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Dominic Solanke is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Luis Diaz be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Luis Diaz is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Bukayo Saka be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Bukayo Saka is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Diogo Jota be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Diogo Jota is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Nicolas Jackson be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Nicolas Jackson is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Jamie Vardy be the top goalscorer in the EPL?,"This market will resolve to “Yes” if Jamie Vardy is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No.”
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will another player be the top goalscorer in the EPL?,"This market will resolve to “Yes” if a player other than Erling Haaland, Mohamed Salah, Alexander Isak, Ollie Watkins, Julian Alvarez, Heung-Min Son, Kai Havertz, Cole Palmer, Dominic Solanke, Luis Diaz, Bukayo Saka, Diogo Jota, Nicolas Jackson, or Jamie Vardy is the top goalscorer for the 2024/2025 English Premier League season. Otherwise, this market will resolve to “No”.
+
+If multiple players tie for the most goals in the 2024/2025 English Premier League season, the market will resolve based on most assists, then most games played, and finally the player’s last name alphabetically if ties persist.
+
+The primary resolution source for this market will be official information from the English Premier League. However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will the Boston Celtics win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Boston Celtics win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.285,0.715
+Polymarket,Will the Cleveland Cavaliers win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Cleveland Cavaliers win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.1375,0.8625
+Polymarket,Will the Denver Nuggets win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Denver Nuggets win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.008,0.992
+Polymarket,Will the Detroit Pistons win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Detroit Pistons win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0025,0.9975
+Polymarket,Will the Golden State Warriors win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Golden State Warriors win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0455,0.9545
+Polymarket,Will the Houston Rockets win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Houston Rockets win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0135,0.9865
+Polymarket,Will the Indiana Pacers win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Indiana Pacers win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0085,0.9915
+Polymarket,Will the LA Clippers win the 2025 NBA Finals?,"This market will resolve to “Yes” if the LA Clippers win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.061,0.939
+Polymarket,Will the Los Angeles Lakers win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Los Angeles Lakers win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.038,0.962
+Polymarket,Will the Memphis Grizzlies win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Memphis Grizzlies win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0005,0.9995
+Polymarket,Will the Miami Heat win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Miami Heat win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0005,0.9995
+Polymarket,Will the Milwaukee Bucks win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Milwaukee Bucks win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0075,0.9925
+Polymarket,Will the Minnesota Timberwolves win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Minnesota Timberwolves win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.033,0.967
+Polymarket,Will the New York Knicks win the 2025 NBA Finals?,"This market will resolve to “Yes” if the New York Knicks win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0205,0.9795
+Polymarket,Will the Oklahoma City Thunder win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Oklahoma City Thunder win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” immediately if it becomes impossible for this team to become 2024-25 NBA Champion.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.355,0.645
+Polymarket,Will the Orlando Magic win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Orlando Magic win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” immediately if it becomes impossible for this team to become 2024-25 NBA Champion.
+
+The resolution source for this market will be information from the NBA.",2025-06-23T12:00:00Z,0.0015,0.9985
+Polymarket,Will Nikola Jokic win the 2024-25 NBA MVP?,"This market will resolve to ""Yes"" if Nikola Jokic is awarded the 2025 NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to ""No"".
+
+If listed player is not announced as a finalist for the 2025 NBA MVP award, this market will immediately resolve to ""No"".
+
+The primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",2025-05-31T12:00:00Z,0.018,0.982
+Polymarket,Will Shai Gilgeous-Alexander win the 2024-25 NBA MVP?,"This market will resolve to ""Yes"" if Shai Gilgeous-Alexander is awarded the 2025 NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to ""No"".
+
+If listed player is not announced as a finalist for the 2025 NBA MVP award, this market will immediately resolve to ""No"".
+
+The primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",2025-05-31T12:00:00Z,0.982,0.018
+Polymarket,Will Giannis Antetokounmpo win the 2024-25 NBA MVP?,"This market will resolve to ""Yes"" if Giannis Antetokounmpo is awarded the 2025 NBA Most Valuable Player (MVP) Award. Otherwise, this market will resolve to ""No"".
+
+If listed player is not announced as a finalist for the 2025 NBA MVP award, this market will immediately resolve to ""No"".
+
+The primary resolution source for this market will be official information from the NBA. However, a consensus of credible reporting may also be used.",2025-05-31T12:00:00Z,0.0015,0.9985
+Polymarket,Will Athletic Bilbao win the UEFA Europa League?,"This market will resolve to “Yes” if Athletic Bilbao wins the 2024-25 UEFA Europa League. Otherwise, this market will resolve to “No”.
+
+If at any point it becomes impossible for this team to win the 2024-2025 UEFA Europa League based on the rules of the tournament (e.g. they are eliminated), this market will resolve immediately to “No”.",2025-05-21T12:00:00Z,0.315,0.685
+Polymarket,Will Manchester United win the UEFA Europa League?,"This market will resolve to “Yes” if Manchester United wins the 2024-25 UEFA Europa League. Otherwise, this market will resolve to “No”.
+
+If at any point it becomes impossible for this team to win the 2024-2025 UEFA Europa League based on the rules of the tournament (e.g. they are eliminated), this market will resolve immediately to “No”.
+",2025-05-21T12:00:00Z,0.283,0.717
+Polymarket,Will Tottenham Hotspur win the UEFA Europa League?,"This market will resolve to “Yes” if Tottenham Hotspur wins the 2024-25 UEFA Europa League. Otherwise, this market will resolve to “No”.
+
+If at any point it becomes impossible for this team to win the 2024-2025 UEFA Europa League based on the rules of the tournament (e.g. they are eliminated), this market will resolve immediately to “No”.",2025-05-21T12:00:00Z,0.335,0.665
+Polymarket,Will Another team win the UEFA Europa League?,"This market will resolve to “Yes” if any team other than Ajax, Anderlecht, Athletic Bilbao, AZ Alkmaar, Besiktas, Braga, Dynamo Kyiv, Fenerbahce, Frankfurt, Galatasaray, Hoffenheim, Lazio, Lyon, Maccabi TLV, Manchester United, Nice, Olympiacos, Porto, Rangers, Real Sociedad, Roma, or Tottenham Hotspur wins the 2024-25 UEFA Europa League. Otherwise, this market will resolve to “No.”
+
+",2025-05-21T12:00:00Z,0.0525,0.9475
+Polymarket,Will Aston Villa finish in the top 4 of EPL?,"This market will resolve to “Yes” if Aston Villa finishes in the top 4 of the 2024-25 Premier League season. Otherwise, the market will resolve to “No.”
+
+If it becomes mathematically certain that Aston Villa will finish in the top 4, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Aston Villa to finish in the top 4, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.",2025-05-25T12:00:00Z,0.048,0.952
+Polymarket,Will Newcastle United finish in the top 4 of EPL?,"This market will resolve to “Yes” if Newcastle United finishes in the top 4 of the 2024-25 Premier League season. Otherwise, the market will resolve to “No.”
+
+If it becomes mathematically certain that Newcastle United will finish in the top 4, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Newcastle United to finish in the top 4, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.",2025-05-25T12:00:00Z,0.465,0.535
+Polymarket,Will Brighton finish in the top 4 of EPL?,"This market will resolve to “Yes” if Brighton finishes in the top 4 of the 2024-25 Premier League season. Otherwise, the market will resolve to “No.”
+
+If it becomes mathematically certain that Brighton will finish in the top 4, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Brighton to finish in the top 4, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.",2025-05-25T12:00:00Z,0.002,0.998
+Polymarket,U.S. recession before May 2025?,"This market will resolve to ""Yes"" if the National Bureau of Economic Research (NBER) publicly announces that a recession has occurred in the United States, at any point in 2024 or later, with the announcement made between September 25, 2024, and April 30, 2025, inclusive. Otherwise, this market will resolve to ""No"". 
+
+The resolution source will be the official announcements from the NBER.",2025-04-30T12:00:00Z,0.0075,0.9925
+Polymarket,Will Bayern Munich win the Bundesliga?,"This market will resolve to ""Yes"" if Bayern Munich is the 2024-25 German Bundesliga Champion. Otherwise the market will resolve to ""No"".
+
+If it is a mathematical certainty Bayern Munich will win the Bundesliga, this market will immediately resolve to ""Yes."" Likewise, if it becomes mathematically impossible for Bayern Munich to win, this market will immediately resolve to ""No."" Potential retroactive points deductions past these points will have no bearing on this market's resolution.
+
+The primary resolution source for this market will be official information from the German Bundesliga (Bundesliga.com). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.9975,0.0025
+Polymarket,Will the Boston Celtics win the Eastern Conference?,"This market will resolve to “Yes” if the Boston Celtics win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.565,0.435
+Polymarket,Will the Cleveland Cavaliers win the Eastern Conference?,"This market will resolve to “Yes” if the Cleveland Cavaliers win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.345,0.655
+Polymarket,Will the Detroit Pistons win the Eastern Conference?,"This market will resolve to “Yes” if the Detroit Pistons win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.007,0.993
+Polymarket,Will the Indiana Pacers win the Eastern Conference?,"This market will resolve to “Yes” if the Indiana Pacers win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.032,0.968
+Polymarket,Will the Miami Heat win the Eastern Conference?,"This market will resolve to “Yes” if the Miami Heat win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.0015,0.9985
+Polymarket,Will the Milwaukee Bucks win the Eastern Conference?,"This market will resolve to “Yes” if the Milwaukee Bucks win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.011,0.989
+Polymarket,Will the New York Knicks win the Eastern Conference?,"This market will resolve to “Yes” if the New York Knicks win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.0475,0.9525
+Polymarket,Will the Orlando Magic win the Eastern Conference?,"This market will resolve to “Yes” if the Orlando Magic win the 2024-2025 NBA Eastern Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Eastern Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.0025,0.9975
+Polymarket,Will the Denver Nuggets win the Western Conference?,"This market will resolve to “Yes” if the Denver Nuggets win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.019,0.981
+Polymarket,Will the Golden State Warriors win the Western Conference?,"This market will resolve to “Yes” if the Golden State Warriors win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.0665,0.9335
+Polymarket,Will the LA Clippers win the Western Conference?,"This market will resolve to “Yes” if the LA Clippers win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.135,0.865
+Polymarket,Will the Houston Rockets win the Western Conference?,"This market will resolve to “Yes” if the Houston Rockets win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.039,0.961
+Polymarket,Will the Los Angeles Lakers win the Western Conference?,"This market will resolve to “Yes” if the Los Angeles Lakers win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.0835,0.9165
+Polymarket,Will the Memphis Grizzlies win the Western Conference?,"This market will resolve to “Yes” if the Memphis Grizzlies win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.0005,0.9995
+Polymarket,Will the Minnesota Timberwolves win the Western Conference?,"This market will resolve to “Yes” if the Minnesota Timberwolves win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.0685,0.9315
+Polymarket,Will the Oklahoma City Thunder win the Western Conference?,"This market will resolve to “Yes” if the Oklahoma City Thunder win the 2024-2025 NBA Western Conference finals. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2024-25 NBA Western Conference finals based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.",2025-06-05T12:00:00Z,0.605,0.395
+Polymarket,Will the Carolina Hurricanes win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Carolina Hurricanes win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.14,0.86
+Polymarket,Will the Dallas Stars win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Dallas Stars win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.0725,0.9275
+Polymarket,Will the Edmonton Oilers win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Edmonton Oilers win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.0505,0.9495
+Polymarket,Will the Florida Panthers win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Florida Panthers win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL",2025-06-23T12:00:00Z,0.14,0.86
+Polymarket,Will the Los Angeles Kings win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Los Angeles Kings win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.075,0.925
+Polymarket,Will the Minnesota Wild win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Minnesota Wild win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.032,0.968
+Polymarket,Will the Montreal Canadiens win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Montreal Canadiens win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.016,0.984
+Polymarket,Will the New Jersey Devils win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the New Jersey Devils win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.0075,0.9925
+Polymarket,Will the Ottawa Senators win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Ottawa Senators win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.0025,0.9975
+Polymarket,Will the St. Louis Blues win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the St. Louis Blues win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.0145,0.9855
+Polymarket,Will the Tampa Bay Lightning win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Tampa Bay Lightning win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.0635,0.9365
+Polymarket,Will the Toronto Maple Leafs win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Toronto Maple Leafs win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.125,0.875
+Polymarket,Will the Vegas Golden Knights win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Vegas Golden Knights win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.06,0.94
+Polymarket,Will the Washington Capitals win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Washington Capitals win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.0425,0.9575
+Polymarket,Will the Winnipeg Jets win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Winnipeg Jets win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.",2025-06-23T12:00:00Z,0.111,0.889
+Polymarket,Will the Colorado Avalanche win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Colorado Avalanche win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.
+",2025-06-23T12:00:00Z,0.085,0.915
+Polymarket,Will Bayer Leverkusen win the Bundesliga?,"This market will resolve to “Yes” if Bayer Leverkusen is the 2024-25 German Bundesliga Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty Bayer Leverkusen will win the Bundesliga, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Bayer Leverkusen to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.
+
+The primary resolution source for this market will be official information from the German Bundesliga (Bundesliga.com). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.004,0.996
+Polymarket,Will another team win the Bundesliga?,"This market will resolve to “Yes” if any team other than Bayern Munich, Bayer Leverkusen, RB Leipzig, Borussia Dortmund, Eintracht Frankfurt, or VfB Stuttgart is the 2024-25 German Bundesliga Champion. Otherwise, the market will resolve to “No”.
+
+The primary resolution source for this market will be official information from the German Bundesliga (Bundesliga.com). However, a consensus of credible reporting may also be used.
+",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Inter Milan win the Serie A?,"This market will resolve to ""Yes"" if Inter Milan is the 2024-25 Serie A Champion. Otherwise the market will resolve to ""No"".
+
+If it is a mathematical certainty that Inter Milan will win the Serie A, this market will immediately resolve to ""Yes."" Likewise, if it becomes mathematically impossible for Inter Milan to win, this market will immediately resolve to ""No."" Potential retroactive points deductions past these points will have no bearing on this market's resolution.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.505,0.495
+Polymarket,Will Napoli win the Serie A?,"This market will resolve to “Yes” if Napoli is the 2024-25 Serie A Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty that Napoli will win the Serie A, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Napoli to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.485,0.515
+Polymarket,Will Juventus win the Serie A?,"This market will resolve to “Yes” if Juventus is the 2024-25 Serie A Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty that Juventus will win the Serie A, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Juventus to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0025,0.9975
+Polymarket,Will Atalanta win the Serie A?,"This market will resolve to “Yes” if Atalanta is the 2024-25 Serie A Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty that Atalanta will win the Serie A, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Atalanta to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.
+",2025-05-25T12:00:00Z,0.004,0.996
+Polymarket,Will AS Roma win the Serie A?,"This market will resolve to “Yes” if AS Roma is the 2024-25 Serie A Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty that AS Roma will win the Serie A, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for AS Roma to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will another team win the Serie A?,"This market will resolve to “Yes” if any team other than Inter Milan, Napoli, Juventus, AC Milan, Atalanta, AS Roma, Lazio, Torino, or Fiorentina is the 2024-25 Serie A Champion. Otherwise, the market will resolve to “No”.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Will Lazio win the Serie A?,"This market will resolve to “Yes” if Lazio is the 2024-25 Serie A Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty that Lazio will win the Serie A, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Lazio to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0025,0.9975
+Polymarket,Will Fiorentina win the Serie A?,"This market will resolve to “Yes” if Fiorentina is the 2024-25 Serie A Champion. Otherwise, the market will resolve to “No”.
+
+If it is a mathematical certainty that Fiorentina will win the Serie A, this market will immediately resolve to “Yes.” Likewise, if it becomes mathematically impossible for Fiorentina to win, this market will immediately resolve to “No.” Potential retroactive points deductions past these points will have no bearing on this market’s resolution.
+
+The primary resolution source for this market will be official information from the Serie A (https://www.legaseriea.it/en). However, a consensus of credible reporting may also be used.",2025-05-25T12:00:00Z,0.0005,0.9995
+Polymarket,Trump declassifies UFO files in first 100 days?,"This market will resolve to ""Yes"" if the Trump administration declassifies any previously classified files pertaining to extraterrestrial life and/or unexplained arial phenomena by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+Announcements of declassifications that are not implemented within this market's timeframe will not count.
+
+The primary resolution source for declassification will be official information from the government of the United States, however a consensus of credible reporting will also be used. 
+",2025-04-29T12:00:00Z,0.013,0.987
+Polymarket,Trump ends taxes on tips in first 100 days?,"This market will resolve to ""Yes"" if Donald Trump signs any federal legislation or performs any executive action that explicitly eliminates federal income taxes on tips earned by workers in the United States by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+Legislation which includes specific exceptions where federal income tax on tips remains applicable for specified groups (whether by income or type of worker, etc) will still qualify, as long as the primary outcome of the law is the removal of federal income tax on tips.
+
+Any bill signed into law or executive action taken within this market's time frame will qualify, regardless of when the law or action goes into effect.
+
+If it becomes impossible for Trump to sign legislation/perform executive actions (e.g. he resigns), this market will resolve to ""No"".
+
+This market's primary resolution source will be official information from the Trump administration, however a consensus of credible information will also be used.",2025-04-29T12:00:00Z,0.009,0.991
+Polymarket,Trump signs national abortion ban?,"This market will resolve to ""Yes"" if Donald Trump signs a bill into law or performs any executive action that explicitly restricts individuals' access to abortion in the United States by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+Bills which impose limitations or expand existing restrictions on when, where, or under what conditions abortions can be performed, including measures that reduce the gestational age limit for legal abortions, increase mandatory waiting periods, or limit the circumstances under which exceptions are allowed will qualify.
+
+Legislation or executive actions which add regulatory hurdles for providers, such as increased licensing requirements, facility standards, or reporting obligations will not qualify.
+
+Any bill signed into law or executive actions within the market's time frame will qualify, regardless of when the law goes into effect.
+
+If it becomes impossible for Trump to sign legislation or perform executive actions (e.g., he resigns or leaves office), this market will resolve to ""No"".
+
+This market's resolution source will be official information from the Trump administration, with a consensus of credible reporting used as needed.",2025-04-29T12:00:00Z,0.012,0.988
+Polymarket,Will Trump pardon Diddy in his first 100 days?,"This market will resolve to ""Yes"" if Sean John Combs (Diddy), receives a presidential pardon, commutation, or reprieve from Donald Trump by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+If it becomes impossible for Trump issue a federal pardon, commutation, or reprieve within this market's timeframe, it may immediately resolve to ""No"".
+
+The primary resolution source for whether Combs is pardoned or not will be official information from the US government, however a consensus of credible reporting will also be used.
+",2025-04-29T12:00:00Z,0.002,0.998
+Polymarket,Will Trump pardon SBF in his first 100 days?,"This market will resolve to ""Yes"" if Sam Bankman-Fried, receives a presidential pardon, commutation, or reprieve from Donald Trump by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+If it becomes impossible for Trump issue a federal pardon, commutation, or reprieve within this market's timeframe, it may immediately resolve to ""No"".
+
+The primary resolution source for whether Sam Bankman-Fried is pardoned or not will be official information from the US government, however a consensus of credible reporting will also be used.
+",2025-04-29T12:00:00Z,0.0045,0.9955
+Polymarket,Will Trump pardon Hunter Biden in his first 100 days?,"This market will resolve to ""Yes"" if Hunter Biden receives a presidential pardon, commutation, or reprieve from Donald Trump by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+If it becomes impossible for Trump issue a federal pardon, commutation, or reprieve within this market's timeframe, it may immediately resolve to ""No"".
+
+The primary resolution source for whether Hunter Biden is pardoned or not will be official information from the US government, however a consensus of credible reporting will also be used.
+",2025-04-29T12:00:00Z,0.0025,0.9975
+Polymarket,Will Trump pardon Young Thug in his first 100 days?,"This market will resolve to ""Yes"" if Jeffery Lamar Williams Jr., aka Young Thug, receives a presidential pardon, commutation, or reprieve from Donald Trump by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+If it becomes impossible for Trump issue a federal pardon, commutation, or reprieve within this market's timeframe, it may immediately resolve to ""No"".
+
+The primary resolution source for whether Young Thug is pardoned or not will be official information from the US government, however a consensus of credible reporting will also be used.
+",2025-04-29T12:00:00Z,0.006,0.994
+Kalshi,Will there be more than 375 tornadoes in April?,"If the preliminary number of tornadoes in Apr is above 375 , then the market resolves to Yes.",2025-05-01T14:00:00Z,0.55,0.88
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Zach Bryan is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Tyler, The Creator is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Travis Scott is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If The Weeknd is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If SZA is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Post Malone is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Playboi Carti is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Kanye West is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Future is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Billie Eilish is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Bad Bunny is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Taylor Swift is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.14,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Morgan Wallen is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Kendrick Lamar is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.05,1.0
+Kalshi,"Top USA Artist on Spotify on Apr 27, 2025?","If Drake is #1 on the Daily Top Artists USA chart on the chart dated Apr 27, 2025, then the market resolves to Yes.",2025-05-11T14:00:00Z,0.95,1.0
+Kalshi,"Will the high temp in Chicago be >72° on Apr 27, 2025?","If the highest temperature recorded at Chicago Midway, IL for April 27, 2025, is greater than 72° according to the National Weather Service's Climatological Report (Daily), then the market resolves to Yes.",2025-05-04T14:00:00Z,0.11,0.99
+Kalshi,"Will the high temp in Chicago be 71-72° on Apr 27, 2025?","If the highest temperature recorded at Chicago Midway, IL for April 27, 2025, is between 71-72° according to the National Weather Service's Climatological Report (Daily), then the market resolves to Yes.",2025-05-04T14:00:00Z,0.14,0.91
+Kalshi,"Will the high temp in Chicago be 69-70° on Apr 27, 2025?","If the highest temperature recorded at Chicago Midway, IL for April 27, 2025, is between 69-70° according to the National Weather Service's Climatological Report (Daily), then the market resolves to Yes.",2025-05-04T14:00:00Z,0.27,0.79
+Kalshi,"Will the high temp in Chicago be 67-68° on Apr 27, 2025?","If the highest temperature recorded at Chicago Midway, IL for April 27, 2025, is between 67-68° according to the National Weather Service's Climatological Report (Daily), then the market resolves to Yes.",2025-05-04T14:00:00Z,0.34,0.71
+Kalshi,"Will the high temp in Chicago be 65-66° on Apr 27, 2025?","If the highest temperature recorded at Chicago Midway, IL for April 27, 2025, is between 65-66° according to the National Weather Service's Climatological Report (Daily), then the market resolves to Yes.",2025-05-04T14:00:00Z,0.21,0.83
+Kalshi,"Will the high temp in Chicago be <65° on Apr 27, 2025?","If the highest temperature recorded at Chicago Midway, IL for April 27, 2025, is less than 65° according to the National Weather Service's Climatological Report (Daily), then the market resolves to Yes.",2025-05-04T14:00:00Z,0.12,0.92
+Kalshi,"Will the **high temp in Philadelphia** be >69° on Apr 27, 2025?","If the highest temperature recorded at Philadelphia International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is greater than 69°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.27,0.78
+Kalshi,"Will the **high temp in Philadelphia** be 68-69° on Apr 27, 2025?","If the highest temperature recorded at Philadelphia International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 68-69°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.31,0.73
+Kalshi,"Will the **high temp in Philadelphia** be 66-67° on Apr 27, 2025?","If the highest temperature recorded at Philadelphia International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 66-67°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.31,0.74
+Kalshi,"Will the **high temp in Philadelphia** be 64-65° on Apr 27, 2025?","If the highest temperature recorded at Philadelphia International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 64-65°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.17,0.88
+Kalshi,"Will the **high temp in Philadelphia** be 62-63° on Apr 27, 2025?","If the highest temperature recorded at Philadelphia International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 62-63°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.16,0.99
+Kalshi,"Will the **high temp in Philadelphia** be <62° on Apr 27, 2025?","If the highest temperature recorded at Philadelphia International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is less than 62°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.11,0.99
+Kalshi,"Will the **high temp in LA** be >65° on Apr 27, 2025?","If the highest temperature recorded in Los Angeles Airport, CA for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is greater than 65°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.17,0.87
+Kalshi,"Will the **high temp in LA** be 64-65° on Apr 27, 2025?","If the highest temperature recorded in Los Angeles Airport, CA for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 64-65°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.33,0.72
+Kalshi,"Will the **high temp in LA** be 62-63° on Apr 27, 2025?","If the highest temperature recorded in Los Angeles Airport, CA for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 62-63°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.37,0.67
+Kalshi,"Will the **high temp in LA** be 60-61° on Apr 27, 2025?","If the highest temperature recorded in Los Angeles Airport, CA for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 60-61°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.19,0.86
+Kalshi,"Will the **high temp in LA** be 58-59° on Apr 27, 2025?","If the highest temperature recorded in Los Angeles Airport, CA for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 58-59°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.07,1.0
+Kalshi,"Will the **high temp in LA** be <58° on Apr 27, 2025?","If the highest temperature recorded in Los Angeles Airport, CA for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is less than 58°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.06,1.0
+Kalshi,"Will the **high temp in Miami** be >87° on Apr 27, 2025?","If the highest temperature recorded at Miami International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is greater than 87°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.09,0.98
+Kalshi,"Will the **high temp in Miami** be 86-87° on Apr 27, 2025?","If the highest temperature recorded at Miami International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 86-87°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.41,0.67
+Kalshi,"Will the **high temp in Miami** be 84-85° on Apr 27, 2025?","If the highest temperature recorded at Miami International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 84-85°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.63,0.46
+Kalshi,"Will the **high temp in Miami** be 82-83° on Apr 27, 2025?","If the highest temperature recorded at Miami International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 82-83°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.12,0.96
+Kalshi,"Will the **high temp in Miami** be 80-81° on Apr 27, 2025?","If the highest temperature recorded at Miami International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 80-81°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.03,1.0
+Kalshi,"Will the **high temp in Miami** be <80° on Apr 27, 2025?","If the highest temperature recorded at Miami International Airport for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is less than 80°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.01,1.0
+Kalshi,"Will the **high temp in Denver** be >82° on Apr 27, 2025?","If the highest temperature recorded in Denver, CO for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is greater than 82°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.21,0.82
+Kalshi,"Will the **high temp in Denver** be 81-82° on Apr 27, 2025?","If the highest temperature recorded in Denver, CO for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 81-82°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.42,0.63
+Kalshi,"Will the **high temp in Denver** be <75° on Apr 27, 2025?","If the highest temperature recorded in Denver, CO for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is less than 75°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.1,1.0
+Kalshi,"Will the **high temp in Denver** be 79-80° on Apr 27, 2025?","If the highest temperature recorded in Denver, CO for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 79-80°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.35,0.71
+Kalshi,"Will the **high temp in Denver** be 77-78° on Apr 27, 2025?","If the highest temperature recorded in Denver, CO for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 77-78°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.09,0.96
+Kalshi,"Will the **high temp in Denver** be 75-76° on Apr 27, 2025?","If the highest temperature recorded in Denver, CO for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 75-76°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.1,1.0
+Kalshi,"Will the **high temp in Austin** be >94° on Apr 27, 2025?","If the highest temperature recorded in Austin Bergstrom for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is greater than 94°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.08,1.0
+Kalshi,"Will the **high temp in Austin** be <87° on Apr 27, 2025?","If the highest temperature recorded in Austin Bergstrom for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is less than 87°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.18,0.87
+Kalshi,"Will the **high temp in Austin** be 93-94° on Apr 27, 2025?","If the highest temperature recorded in Austin Bergstrom for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 93-94°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.12,0.98
+Kalshi,"Will the **high temp in Austin** be 91-92° on Apr 27, 2025?","If the highest temperature recorded in Austin Bergstrom for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 91-92°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.18,0.85
+Kalshi,"Will the **high temp in Austin** be 89-90° on Apr 27, 2025?","If the highest temperature recorded in Austin Bergstrom for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 89-90°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.33,0.71
+Kalshi,"Will the **high temp in Austin** be 87-88° on Apr 27, 2025?","If the highest temperature recorded in Austin Bergstrom for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 87-88°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.35,0.69
+Kalshi,"Will the **high temp in NYC** be >63° on Apr 27, 2025?","If the highest temperature recorded in Central Park, New York for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is greater than 63°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.17,0.85
+Kalshi,"Will the **high temp in NYC** be 62-63° on Apr 27, 2025?","If the highest temperature recorded in Central Park, New York for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 62-63°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.27,0.77
+Kalshi,"Will the **high temp in NYC** be 60-61° on Apr 27, 2025?","If the highest temperature recorded in Central Park, New York for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 60-61°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.34,0.68
+Kalshi,"Will the **high temp in NYC** be 58-59° on Apr 27, 2025?","If the highest temperature recorded in Central Park, New York for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 58-59°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.22,0.83
+Kalshi,"Will the **high temp in NYC** be 56-57° on Apr 27, 2025?","If the highest temperature recorded in Central Park, New York for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is between 56-57°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.09,0.93
+Kalshi,"Will the **high temp in NYC** be <56° on Apr 27, 2025?","If the highest temperature recorded in Central Park, New York for April 27, 2025 as reported by the National Weather Service's Climatological Report (Daily), is less than 56°, then the market resolves to Yes.",2025-05-04T14:00:00Z,0.09,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is above 103749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 103250-103749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 99250-99749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.07,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 98750-99249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 98250-98749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.09,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 97750-98249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.13,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 97250-97749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.1,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 96750-97249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.1,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 96250-96749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.2,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 95750-96249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.13,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 95250-95749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.2,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 94750-95249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.22,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 102750-103249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.07,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 102250-102749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 101750-102249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 101250-101749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 100750-101249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.07,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 100250-100749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 99750-100249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.09,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 94250-94749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.28,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 93750-94249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.28,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 93250-93749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.22,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 92750-93249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.2,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 92250-92749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.13,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 91750-92249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.2,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 91250-91749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.12,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 90750-91249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.1,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 90250-90749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.09,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 89750-90249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.1,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 89250-89749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.09,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 88750-89249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 88250-88749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 87750-88249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.07,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 87250-87749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 86750-87249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.07,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 86250-86749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is below 84750 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 85750-86249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 85250-85749.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Bitcoin price range  on Apr 27, 2025?","If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is between 84750-85249.99 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.06,1.0
+Kalshi,"Shiba Inu price range  on Apr 27, 2025?","If the simple average of the 60 seconds of CF Benchmarks' Shiba Inu-Dollar Spot Rate (SHIBUSD_RTI) before 5 PM EDT is above 0.000023499 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.08,1.0
+Kalshi,"Shiba Inu price range  on Apr 27, 2025?","If the simple average of the 60 seconds of CF Benchmarks' Shiba Inu-Dollar Spot Rate (SHIBUSD_RTI) before 5 PM EDT is between 0.000023000-0.000023499 at 5 PM EDT on Apr 27, 2025, then the market resolves to Yes.",2025-05-04T21:00:00Z,0.08,1.0
